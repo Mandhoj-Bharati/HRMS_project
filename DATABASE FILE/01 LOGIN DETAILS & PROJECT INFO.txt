@@ -1,0 +1,14 @@
+
+
+**Database Name: houserenting**
+
+**Developed by Mandhoj bharati**
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+**Admin Login Details**
+
+Email	: bmandhoj@gmail.com
+Password: mandhoj
+
